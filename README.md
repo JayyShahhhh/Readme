@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Jay Shah</h1>
+<h1 align="center"> Hey there, I'm Jay Shah ☕️ </h1>
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 - **Problem Solver** – I simplify complexity by breaking down raw data into insights that matter.  
 - **Automation Enthusiast** – I remove manual burdens so processes run like clockwork.  
@@ -51,7 +51,7 @@ Build dashboards that *don’t just show data — they spark decisions*
 ## 📬 Let’s Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jay-shah" target="_blank">
+  <a href="https://www.linkedin.com/in/jayyshah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:j.59shah@icloud.com">
